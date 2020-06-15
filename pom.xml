@@ -108,7 +108,7 @@
         <commons-httpclient.version>3.1</commons-httpclient.version>
         <commons-attributes.version>2.1</commons-attributes.version>
         <commons-beanutils.version>1.8.3</commons-beanutils.version>
-        <commons-collections.version>3.2</commons-collections.version>
+        <commons-collections.version>3.2.2</commons-collections.version>
     </properties>
     <!-- 依赖管理 -->
     <dependencyManagement>
