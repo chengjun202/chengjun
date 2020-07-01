@@ -70,7 +70,7 @@
         <!--POI jar包-->
         <poi.version>3.9</poi.version>
         <!--任务定时器-->
-        <quartz.version>2.2.3</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <!--itextpdf -->
         <itextpdf.version>5.5.8</itextpdf.version>
         <!--lowagieText -->
