@@ -14,7 +14,7 @@
         <JAVAjdk.version>1.8</JAVAjdk.version>
         <project.bulid.sourceEncoding>UTF-8</project.bulid.sourceEncoding>
         <!--测试jar包 版本-->
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <!--时间jar包 版本-->
         <joda-time.version>2.5</joda-time.version>
         <!--mybatis相关 jar包版本 start-->
