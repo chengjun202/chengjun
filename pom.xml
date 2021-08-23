@@ -59,7 +59,7 @@
         <fastjson.version>1.2.6</fastjson.version>
         <json-lib.version>2.4</json-lib.version>
         <jacksonasl.version>1.9.13</jacksonasl.version>
-        <jsonp.version>1.7.2</jsonp.version>
+        <jsonp.version>1.14.2</jsonp.version>
         <jsion-taglib.version>0.4.1</jsion-taglib.version>
         <jsonApp.version>1.0.0</jsonApp.version>
         <gson.version>2.2.4</gson.version>
