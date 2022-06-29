@@ -68,7 +68,7 @@
         <qrcode.version>1.0</qrcode.version>
         <zxing.version>3.3.0</zxing.version>
         <!--POI jar包-->
-        <poi.version>3.9</poi.version>
+        <poi.version>4.1.1</poi.version>
         <!--任务定时器-->
         <quartz.version>2.2.3</quartz.version>
         <!--itextpdf -->
