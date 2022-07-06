@@ -39,7 +39,7 @@
         <spring-data-redis.version>2.0.2.RELEASE</spring-data-redis.version>
         <!-- Spring 相关 jar包  end -->
         <!--shrio 版本-->
-        <shiro.version>1.3.2</shiro.version>
+        <shiro.version>1.9.1</shiro.version>
         <shiro-web.version>1.2.3</shiro-web.version>
         <!--ehcache 版本-->
         <ehcache.version>2.5.0</ehcache.version>
