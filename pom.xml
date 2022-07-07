@@ -30,7 +30,7 @@
         <!-- Spring 相关 jar包 start -->
         <!--aspectjweaver 版本-->
         <aspectjweaver.version>1.8.9</aspectjweaver.version>
-        <spring.version>4.3.2.RELEASE</spring.version>
+        <spring.version>5.2.21.RELEASE</spring.version>
         <aop-alliance.version>1.0</aop-alliance.version>
         <!--spring-security jar 版本 权限管理-->
         <spring.security.version>4.2.3.RELEASE</spring.security.version>
