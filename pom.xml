@@ -104,7 +104,7 @@
         <commons-logging.version>1.1</commons-logging.version>
         <commons-pool.version>1.5.4</commons-pool.version>
         <commons-pool2.version>2.3</commons-pool2.version>
-        <commons-net.version>3.3</commons-net.version>
+        <commons-net.version>3.9.0</commons-net.version>
         <commons-httpclient.version>3.1</commons-httpclient.version>
         <commons-attributes.version>2.1</commons-attributes.version>
         <commons-beanutils.version>1.8.3</commons-beanutils.version>
